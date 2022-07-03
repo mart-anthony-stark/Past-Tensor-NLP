@@ -1,5 +1,5 @@
 {
-  "name": "node-boilerplate",
+  "name": "past-tensor",
   "version": "1.0.0",
   "description": "Templates for vanilla node, express, fastify",
   "main": "index.js",
@@ -14,8 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "compromise": "^14.4.0",
+    "compromise-sentences": "^0.3.0",
     "dotenv": "^16.0.0",
     "ejs": "^3.1.8",
-    "express": "^4.17.3"
+    "express": "^4.18.1"
   }
 }
