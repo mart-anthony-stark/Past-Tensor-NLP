@@ -1,0 +1,20 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "Templates for vanilla node, express, fastify",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
